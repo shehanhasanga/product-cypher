@@ -1,0 +1,1 @@
+This is a simple java based text encrypter. Here user have to input a key and based on that key the encrypted text willbe generated. After thet any one with that key can view this encrypted document.
